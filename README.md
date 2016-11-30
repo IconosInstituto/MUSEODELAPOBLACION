@@ -1,4 +1,4 @@
-# MUSEO-DE-LA-POBLACION
+# MUSEO DE LA POBLACIÓN
 MUSEO DE LA POBLACIÓN 
 
 ![LOGOTIPO](https://github.com/IconosInstituto/MUSEODELAPOBLACION/blob/master/img/LOGOTIPO.png)
@@ -33,6 +33,7 @@ Modelado 3D.
 
 Link Figma: https://www.figma.com/file/Wl5abKGiLljzGgk6uAcAW12v/MUSEO-POBLACI%C3%93N
 
-Link pàgina:https://iconosinstituto.github.io/MUSEODELAPOBLACIONWEB.gihub.io/
+Link pàgina:https://iconosinstituto.github.io/MUSEODELAPOBLACION/
+
 
 
