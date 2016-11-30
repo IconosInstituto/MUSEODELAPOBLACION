@@ -1,0 +1,147 @@
+*{
+    padding: 0;
+margin: 0;
+    text-align: center;
+    color: #fff;
+    font-family: 'Scope One', serif;  
+}
+    
+body,html {
+    height: 100%;
+}
+
+.container1
+{background-image: url(/img/FONDOWEB.png);
+    background-repeat: no-repeat;
+    
+    background-attachment: fixed;
+    position:static;
+    background-blend-mode: lighten;
+    width: 100%;
+    height: 100%;
+}
+
+.logo{
+    background-image: url('/img/LOGOTIPOWEB.png');
+    background-size: 100%;
+    width: 100%;
+    max-width: 500px;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    height: 600px;
+    max-height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+        
+        /*TABLET*/
+
+    
+    
+   @media (min-width:721px) and (max-width:1199px){
+        .logo{ height: 500px;
+        }
+       
+             /*MÓVIL*/
+
+       }
+    
+   @media (max-width:720px){
+        .logo{ 
+            height: 150px;
+        }
+        
+        
+        
+}
+
+
+
+
+  
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    
+}
+
+li a {
+    display: block;
+    text-decoration: none;
+    font-family: 'Varela', sans-serif;
+    list-style-type: none;
+    opacity: 0.5;
+    font-size: 12px;
+    width: auto;
+    overflow: hidden;
+    
+}
+
+
+
+li a:hover {
+    font-size: 14px;
+    opacity: 1;
+    text-shadow: 20px 20px 20px #000;
+     overflow: hidden;
+}
+
+
+.menu1{
+    text-align: center;
+    color: #fff;
+    background-color: #d2b12d;
+    height: 25px;
+    width: 150px;
+    
+    
+    
+}
+
+
+.menu2{
+    text-align: center;
+    color: #fff;
+    background-color: #cc3300;
+    height: 25px;
+    width: 150px;
+   
+}
+
+
+.menu3{
+    text-align: center;
+    color: #fff;
+    background-color:  #60799f;
+    height: 25px;
+    width: 150px;
+    
+}
+
+
+.menu4{
+    text-align: center;
+    color: #fff;
+    background-color: #85adad;
+    height: 25px;
+    width: 150px;
+    
+}
+
+
+.menu5{
+    text-align: center;
+    color: #fff;
+    background-color: #999966;
+    height: 25px;
+    width: 150px;
+    
+}
+
+
+.espacio{
+    height: 200px;
+}
