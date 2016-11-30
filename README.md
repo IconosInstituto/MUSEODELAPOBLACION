@@ -1,7 +1,7 @@
 # MUSEO-DE-LA-POBLACION
 MUSEO DE LA POBLACIÓN 
 
-![LOGOTIPO](logotipo.png)
+![LOGOTIPO](https://github.com/IconosInstituto/MUSEODELAPOBLACION/blob/master/img/LOGOTIPO.png)
 
 PROYECTO INTEGRADOR | MUSEO DE LA POBLACIÓN
 
@@ -24,11 +24,11 @@ Estrategias de significación,
 Animación, 
 Modelado 3D.
 
-![INFOGRAFÍA](INFOGRAFÍA-01.jpg)
+![INFOGRAFÍA](https://github.com/IconosInstituto/MUSEODELAPOBLACION/blob/master/img/INFOGRAFIA.jpg)
 
 
 
-![PÓSTER](PÓSTER2-01.jpg)
+![PÓSTER](https://github.com/IconosInstituto/MUSEODELAPOBLACION/blob/master/img/POSTER.jpg)
 
 
 Link Figma: https://www.figma.com/file/Wl5abKGiLljzGgk6uAcAW12v/MUSEO-POBLACI%C3%93N
