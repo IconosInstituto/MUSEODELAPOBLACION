@@ -57,6 +57,45 @@ body,html {
 
 
 
+
+.B{
+    background-image: url('../img/LOGOTIPOWEB.png');
+    background-size: 100%;
+    width: 100%;
+    max-width: 500px;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    height: 600px;
+    max-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+        
+        /*TABLET*/
+
+    
+    
+   @media (min-width:721px) and (max-width:1199px){
+        .B{ height: 200px;
+        }
+       
+             /*MÓVIL*/
+
+       }
+    
+   @media (max-width:720px){
+        .B{ 
+            height: 10px;
+        }
+        
+        
+        
+}
+
+
+        
+    
+
   
 
 ul {
@@ -87,6 +126,9 @@ li a:hover {
     text-shadow: 20px 20px 20px #000;
      overflow: hidden;
 }
+
+
+
 
 
 .menu1{
@@ -131,14 +173,7 @@ li a:hover {
 }
 
 
-.menu5{
-    text-align: center;
-    color: #fff;
-    background-color: #999966;
-    height: 25px;
-    width: 150px;
-    
-}
+
 
 
 .espacio{
