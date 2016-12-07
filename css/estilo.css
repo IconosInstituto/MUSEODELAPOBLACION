@@ -115,6 +115,7 @@ li a {
     font-size: 12px;
     width: auto;
     overflow: hidden;
+    color: #fff;
     
 }
 
@@ -178,4 +179,133 @@ li a:hover {
 
 .espacio{
     height: 200px;
+}
+
+
+
+.cont1{
+    background-image: url('../img/LOGOTIPOWEB.png');
+    background-size: 100%;
+    width: 100%;
+    max-width: 500px;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    height: 600px;
+    max-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.cont2{
+    background-image: url('../img/LOGOTIPOWEB.png');
+    background-size: 100%;
+    width: 100%;
+    max-width: 500px;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    height: 600px;
+    max-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+.cont3{
+    color: #fff;
+    font-size: 2em;
+    
+    
+    
+}
+
+
+.botones a{ 
+  padding:20px;
+  background: #000;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+  text-decoration: none;
+  transition: all 0.5s;
+  
+  
+ }
+
+
+
+
+.adulto a:hover{
+background: #ff3300;
+color:#fff;
+opacity: .8;
+transition: all 0.8s;
+border-radius: 70px 70px 70px 70px;
+
+    
+    
+}
+
+.menor a:hover{
+background: #ff3300;
+color:#fff;
+opacity: .8;
+transition: all 0.8s;
+border-radius: 70px 70px 70px 70px;
+
+    
+    
+}
+
+
+.mayor a:hover{
+background: #ff3300;
+color:#fff;
+opacity: .8;
+transition: all 0.8s;
+border-radius: 70px 70px 70px 70px;
+
+    
+    
+}
+
+
+.estudiante a:hover{
+background: #ff3300;
+color:#fff;
+opacity: .8;
+transition: all 0.8s;
+border-radius: 70px 70px 70px 70px;
+
+    
+    
+}
+
+
+
+
+
+
+.botones {
+    text-align: center;
+    color: #fff;
+  
+  
+}
+ 
+.botones>li {
+    display: inline-block;
+    padding: 60px 80px 60px 80px;
+    text-align: center;
+    font-family: "Verdana";
+    color: #000000;
+    text-decoration: none;
+    transition: all 0.3s;
+    color: #fff;
+    
+  
+ 
 }
