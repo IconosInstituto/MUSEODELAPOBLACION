@@ -251,7 +251,7 @@ border-radius: 70px 70px 70px 70px;
 }
 
 .menor a:hover{
-background: #ff3300;
+background: #0066cc;
 color:#fff;
 opacity: .8;
 transition: all 0.8s;
@@ -263,7 +263,7 @@ border-radius: 70px 70px 70px 70px;
 
 
 .mayor a:hover{
-background: #ff3300;
+background: #993399;
 color:#fff;
 opacity: .8;
 transition: all 0.8s;
@@ -275,7 +275,7 @@ border-radius: 70px 70px 70px 70px;
 
 
 .estudiante a:hover{
-background: #ff3300;
+background: #009999;
 color:#fff;
 opacity: .8;
 transition: all 0.8s;
