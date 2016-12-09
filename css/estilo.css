@@ -179,9 +179,13 @@ li a:hover {
 
 .espacio{
     height: 200px;
+    
 }
 
-
+.fluid{
+    overflow: scroll;
+    
+}
 
 .cont1{
     background-image: url('../img/LOGOTIPOWEB.png');
