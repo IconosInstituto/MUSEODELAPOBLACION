@@ -215,7 +215,18 @@ li a:hover {
     margin-right: auto;
 }
 
-
+.cont4{
+   
+    background-size: contain;
+    width: 100%;
+    max-width: 500px;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: padding-box;
+}
 
 
 
