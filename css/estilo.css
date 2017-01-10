@@ -185,47 +185,70 @@ li a:hover {
     
 }
 
+
+.espacio2{
+    height: 400px;
+    
+}
+
 .fluid{
     
     
 }
 
 .cont1{
-    background-image: url('../img/LOGOTIPOWEB.png');
-    background-size: contain;
+    background-image: url('../img/digital-age.png');
+    background-size: auto;
+    
     width: 100%;
-    max-width: 500px;
-    padding-top: 100px;
-    background-repeat: no-repeat;
+    max-width: 300px;
     height: 600px;
     max-height: 300px;
+    
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    
+    
+    
     margin-left: auto;
     margin-right: auto;
+    
+    -moz-border-radius: 15px;
+    border-radius: 500px;
+    overflow: hidden;
+    position: static;
+     border: 3px solid #fff;
+    color: white;
+    font-family: 'Scope One', serif;
+    
 }
 
 
 .cont2{
-    background-image: url('../img/LOGOTIPOWEB.png');
-    background-size: contain;
+    background-image: url('../img/2944c57ae596ad8f7f08527c171d71b0.jpg');
+    background-size: auto;
+    
     width: 100%;
-    max-width: 500px;
+    max-width: 300px;
+    height: 600px;
+    max-height: 300px;
+    
     padding-top: 100px;
     background-repeat: no-repeat;
-    height: 600px;
+    
+    
+    
     margin-left: auto;
     margin-right: auto;
-}
-
-.cont4{
-   
-    max-width: 500px;
-    min-width: 400%;
-    padding-top: 100px;
-    background-repeat: no-repeat;
-    height: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    box-sizing: padding-box;
+    
+    -moz-border-radius: 15px;
+    border-radius: 500px;
+    overflow: hidden;
+    position: static;
+     border: 3px solid #fff;
+    color: white;
+    font-family: 'Scope One', serif;
+    
 }
 
 
@@ -236,6 +259,113 @@ li a:hover {
     /*min-height: 2800px;*/
     
     
+    
+}
+
+
+
+
+.cont4{
+   
+    max-width: 400px;
+    min-width: 400px;
+    background-repeat: no-repeat;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid #fff;
+    -moz-border-radius: 15px;
+    border-radius: 1000px;
+    overflow: hidden;
+    position: static;
+}
+
+
+
+
+
+.cont5{
+    background-image: url('../img/people-need-clothes_d330435c696a4f74.jpg');
+    background-size: cover;
+    
+    width: 100%;
+    max-width: 300px;
+    height: 600px;
+    max-height: 300px;
+    
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    
+    
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+    -moz-border-radius: 15px;
+    border-radius: 500px;
+    overflow: hidden;
+    position: static;
+     border: 3px solid #fff;
+    color: white;
+    font-family: 'Scope One', serif;
+    font-size: 2em;
+    
+}
+
+
+.cont6{
+    background-image: url('../img/ali-land-five-books-788x306.jpg');
+    background-size: cover;
+    
+    width: 100%;
+    max-width: 300px;
+    height: 600px;
+    max-height: 300px;
+    
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    
+    
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+    -moz-border-radius: 15px;
+    border-radius: 500px;
+    overflow: hidden;
+    position: static;
+     border: 3px solid #fff;
+    color: white;
+    font-family: 'Scope One', serif;
+    font-size: 2em;
+    
+}
+
+.cont7{
+    background-image: url('../img/shutterstock_38383006.jpg');
+    background-size: cover;
+    
+    width: 100%;
+    max-width: 300px;
+    height: 600px;
+    max-height: 300px;
+    
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    
+    
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+    -moz-border-radius: 15px;
+    border-radius: 500px;
+    overflow: hidden;
+    position: static;
+     border: 3px solid #fff;
+    color: black;
+    font-family: 'Scope One', serif;
+    font-size: 2em;
     
 }
 
